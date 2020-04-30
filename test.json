@@ -1,0 +1,23 @@
+{
+  "name": "Bill",
+  "hobbies": ["rings","gardening","surfing"],
+  "smoker": false,
+  "age": 27,
+  "books": [
+    {
+    "title": "Homo Deus",
+    "author": "Yuval Harari",
+    "ISBN": "176-236-25-2716"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Harari",
+      "ISBN": "176-836-25-2714"
+    },
+    {
+      "title": "Overcoming Gravity",
+      "author": "Steven Low",
+      "ISBN": "0-9908738-5-4"
+    }
+  ]
+}
