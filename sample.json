@@ -1,0 +1,41 @@
+"name": "Bill",
+"hobbies": ["rings","gardening","surfing"],
+"smoker": false,
+"age": 27,
+"jeans": [
+  {
+  "brand": "G-star",
+  "style": "Arc 3d slim",
+  "colour": "Worn in azure",
+  "size": 3132
+  },
+  {
+    "brand": "G-star",
+    "style": "Arc 3d slim",
+    "colour": "Pitch black",
+    "size": 3232
+  },
+  {
+    "brand": "G-star",
+    "style": "Arc 3d slim",
+    "colour": "Medium aged",
+    "size": 3232
+  },
+  {
+    "brand": "G-star",
+    "style": "Bronson slim chino",
+    "colour": "Grey",
+    "size": 3232
+  },
+  {
+    "brand": "G-star",
+    "style": "Tobog 3d relaxed tapered",
+    "colour": "Charcoal Black",
+    "size": 3232
+  }
+
+
+]
+
+}
+© 2020 GitHub, Inc.
